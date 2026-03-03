@@ -1,0 +1,6 @@
+interface:
+  display_name: "代码检索"
+  short_description: "代码检索专用：定位代码实现位置与调用关系。"
+  default_prompt: "使用 $mcp-search-context 定位当前任务相关代码并确认修改上下文。"
+policy:
+  allow_implicit_invocation: true

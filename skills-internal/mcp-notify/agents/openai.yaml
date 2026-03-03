@@ -1,0 +1,6 @@
+interface:
+  display_name: "通知触发"
+  short_description: "通知专用：统一通知时机、顺序与标题规范。"
+  default_prompt: "使用 $mcp-notify 在关键节点发送规范通知并设置合适 taskName。"
+policy:
+  allow_implicit_invocation: true

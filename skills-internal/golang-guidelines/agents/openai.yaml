@@ -1,0 +1,6 @@
+interface:
+  display_name: "Golang开发指南"
+  short_description: "Golang开发指南，包括文件修改边界、包用法不明确时的处理方式等。"
+  default_prompt: "使用 $golang-guidelines 明确Golang开发时的文件修改边界、包用法不明确时的处理方式。"
+policy:
+  allow_implicit_invocation: true

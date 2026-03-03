@@ -1,0 +1,6 @@
+interface:
+  display_name: "Golang开发模式"
+  short_description: "构建稳健、高效且可维护的Go应用程序的惯用Go模式、最佳实践和约定。"
+  default_prompt: "使用 $golang-patterns 明确Golang开发时的惯用Go模式、最佳实践和约定。"
+policy:
+  allow_implicit_invocation: true
