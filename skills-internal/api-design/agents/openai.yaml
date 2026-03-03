@@ -1,0 +1,6 @@
+interface:
+  display_name: "API 设计"
+  short_description: "REST API设计模式与最佳实践"
+  default_prompt: "使用 $api-design 明确 REST API设计模式：资源、状态码、分页。"
+policy:
+  allow_implicit_invocation: true

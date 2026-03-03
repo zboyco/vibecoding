@@ -17,6 +17,7 @@ description: 使用六阶段工作流处理新需求。
 - 通知触发：`../../skills-internal/mcp-notify`。
 - Golang指南：`../../skills-internal/golang-guidelines`。
 - Golang模式：`../../skills-internal/golang-patterns`。
+- RestAPI设计模：`../../skills-internal/api-design`。
 
 ## 全局执行约束
 

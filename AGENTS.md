@@ -9,6 +9,7 @@
   - `./skills-internal/mcp-notify`
   - `./skills-internal/golang-guidelines`
   - `./skills-internal/golang-patterns`
+  - `./skills-internal/api-design`
 
 # [技能职责映射]
 | 技能 | 适用场景 |
@@ -17,3 +18,4 @@
 | `mcp-notify` | 任务阶段完成、等待反馈、总结前通知 |
 | `golang-guidelines` | Golang 开发约束，包用法确认、生成文件边界 |
 | `golang-patterns` | Golang 开发模式、最佳实践和约定 |
+| `api-design` | API 设计模式、最佳实践和约定 |
