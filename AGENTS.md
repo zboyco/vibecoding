@@ -4,7 +4,7 @@
 - **当且仅当** 在 `总结汇报` 回应显示 **前**，调用 `mcp-notify` 技能通知用户，流程如下：[执行任务] -> [通知用户] -> [总结汇报]。
 
 # [关联技能]
-- 默认关联以下 4 个技能：
+- 默认关联以下 5 个技能（相对当前文件路径）：
   - `./skills-internal/mcp-search-context`
   - `./skills-internal/mcp-notify`
   - `./skills-internal/golang-guidelines`
